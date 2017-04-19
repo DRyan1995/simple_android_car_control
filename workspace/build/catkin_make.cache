@@ -1,0 +1,2 @@
+race
+-DCATKIN_DEVEL_PREFIX=/home/ryan/Desktop/pdsf/RyanSSD/f1tenth-ucr/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/ryan/Desktop/pdsf/RyanSSD/f1tenth-ucr/workspace/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ryan/Desktop/pdsf/RyanSSD/f1tenth-ucr/workspace/install
+
+Name: race
+Description: Description of race
+Version: 0.0.0
+Cflags: -I/home/ryan/Desktop/pdsf/RyanSSD/f1tenth-ucr/workspace/install/include
+Libs: -L/home/ryan/Desktop/pdsf/RyanSSD/f1tenth-ucr/workspace/install/lib 
+Requires: roscpp rospy sensor_msgs std_msgs geometry_msgs
